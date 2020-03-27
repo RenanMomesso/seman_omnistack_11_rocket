@@ -1,0 +1,3 @@
+# seman_omnistack_11_rocket
+
+CURSO ROCKETSEAT SOBRE NODEJS, REACT E REACTNATIVE
